@@ -51,6 +51,6 @@
 
 
 <p align = "center">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=h8va14qayc6l8keezkxt8cza2&unique={true|1|on|yes}">
     <a href="https://open.spotify.com/user/h8va14qayc6l8keezkxt8cza2?si=d897280cd2eb4c34">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=h8va14qayc6l8keezkxt8cza2&unique={true|1|on|yes}">
 </p>
