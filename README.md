@@ -46,7 +46,7 @@
 </div>
 
 
-
+<div align="center">
 <p align="center">
 <h2> University Projects </h2>
     <table>
@@ -107,7 +107,7 @@
 		</tr>
 	</table>
 </p>
-
+</div>
 
 
 
