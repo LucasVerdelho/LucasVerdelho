@@ -10,7 +10,7 @@
 </h2>
 
 <p align="center">
- <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
 <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/Haskell-5e5086?style=flat&logo=haskell&logoColor=white"/>
@@ -28,7 +28,7 @@
     <!-- <img src="link para gif" width="50"> -->
 </h2>
  
-
+<p align="center">
 <h2> Personal Projects </h2>
     <table>
 	    <tr>
@@ -39,11 +39,12 @@
 		<th> Automation/Script </th>
 		<td> <a href="https://github.com/LucasVerdelho/Terminal_Randomizer"> Terminal_Randomizer </a> </td>
 		<td> Randomize the appearance of a Windows Terminal </td>
+    </table>
+</p>
 
 
 
-
-
+<p align="center">
 <h2> University Projects </h2>
     <table>
 	    <tr>
@@ -102,7 +103,7 @@
 			<td> Group Project </td>
 		</tr>
 	</table>
-
+</p>
 
 
 
