@@ -29,8 +29,10 @@
 </h2>
  
 <p align="center">
+
 <h2> Personal Projects </h2>
-    <table class="center">
+    <center>
+    <table>
 	    <tr>
 		    <th> Type of Project </th>
 		    <th> Project Name </th>
@@ -40,11 +42,9 @@
 		<td> <a href="https://github.com/LucasVerdelho/Terminal_Randomizer"> Terminal_Randomizer </a> </td>
 		<td> Randomize the appearance of a Windows Terminal </td>
     </table>
+    </center>
 </p>
-.center {
-  margin-left: auto;
-  margin-right: auto;
-}
+
 
 
 <p align="center">
