@@ -41,4 +41,6 @@
 </p>
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=h8va14qayc6l8keezkxt8cza2&unique={true|1|on|yes})
+<p align = "center">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=h8va14qayc6l8keezkxt8cza2&unique={true|1|on|yes}">
+</p>
