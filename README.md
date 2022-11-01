@@ -28,8 +28,23 @@
     <!-- <img src="link para gif" width="50"> -->
 </h2>
  
-<li class="UniversityProjects">
-    <h2> University Projects </h2>
+
+<h2> Personal Projects </h2>
+    <table>
+	    <tr>
+		    <th> Type of Project </th>
+		    <th> Project Name </th>
+		    <th> Project Description </th>
+	    </tr>
+		<th> Automation/Script </th>
+		<td> <a href="https://github.com/LucasVerdelho/Terminal_Randomizer"> Terminal_Randomizer </a> </td>
+		<td> Randomize the appearance of a Windows Terminal </td>
+
+
+
+
+
+<h2> University Projects </h2>
     <table>
 	    <tr>
 		    <th> Class </th>
@@ -87,7 +102,7 @@
 			<td> Group Project </td>
 		</tr>
 	</table>
-</li>
+
 
 
 
