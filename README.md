@@ -30,8 +30,9 @@
  
 <p align="center">
 
+<div align="center">
 <h2> Personal Projects </h2>
-    <table style=" margin-left: auto; margin-right: auto;">
+    <table>
 	    <tr>
 		    <th> Type of Project </th>
 		    <th> Project Name </th>
@@ -42,6 +43,7 @@
 		<td> Randomize the appearance of a Windows Terminal </td>
     </table>
 </p>
+</div>
 
 
 
