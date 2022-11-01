@@ -1,11 +1,12 @@
 
-<img src="https://github.com/LucasVerdelho/LucasVerdelho/readme_assets/totoro.gif"/>
-
+<p align = "center">
+    <img src="https://github.com/LucasVerdelho/LucasVerdelho/blob/main/readme_assets/totoro.gif"/>
+</p>
 
 
 
 <h2 align="center">Meus diversos skills (ou não :/) 
-<!-- <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"> -->
+<!-- <img src="link para gif" width="50"> -->
 </h2>
 
 <p align="center">
@@ -21,7 +22,11 @@
 
 
 
-
+<h2 align="center">
+  Minhas stats pro gamer
+    <!-- <img src="link para gif" width="50"> -->
+</h2>
+ 
 
 <p align = "center">
     <img src=https://github-readme-stats.vercel.app/api?username=LucasVerdelho&count_private=true&hide=issues&show_icons=true&theme=cobalt>
