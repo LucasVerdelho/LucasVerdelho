@@ -6,7 +6,7 @@
 
 
 <h2 align="center">Meus diversos skills (ou não :/) 
-<!-- <img src="link para gif" width="50"> -->
+<img src="https://github.com/LucasVerdelho/LucasVerdelho/blob/main/readme_assets/hmmm.gif" width="50">
 </h2>
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 <h2 align="center">
     Great Success
-    <!-- <img src="link para gif" width="50"> -->
+    <img src="https://github.com/LucasVerdelho/LucasVerdelho/blob/main/readme_assets/success.gif" width="50">
 </h2>
  
 <p align="center">
