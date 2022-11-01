@@ -5,6 +5,22 @@
 
 
 
+<h2 align="center">Meus diversos skills (ou não :/) 
+<!-- <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"> -->
+</h2>
+
+<p align="center">
+ <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+</p>
+
+
+
 
 
 
@@ -13,7 +29,7 @@
 
 
 <p align = "center">
-    <img src=(https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVerdelho&hide=javascript,html,roff,cmake,batchfile&layout=compact&count_private=true&theme=cobalt>
+    <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVerdelho&hide=javascript,html,roff,cmake,batchfile&layout=compact&count_private=true&theme=cobalt>
 
 </p>
 
