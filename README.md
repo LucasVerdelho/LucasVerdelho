@@ -28,6 +28,72 @@
     <!-- <img src="link para gif" width="50"> -->
 </h2>
  
+<li class="UniversityProjects">
+    <h2> University Projects </h2>
+    <table>
+	    <tr>
+		    <th> Class </th>
+		    <th> Project Name </th>
+		    <th> Project Description </th>
+	    </tr>
+	    <tr>
+			<th> LI2 </th>
+			<td> <a href="https://github.com/LucasVerdelho/LI2-Project"> Rastros in C </a> </td>
+			<td> Group Project </td>
+	    </tr>
+		<tr>
+			<th> POO </th>
+			<td> <a href="https://github.com/LucasVerdelho/POO-Project"> Football Manager in Java </a></td>
+			<td> POO group project </td>
+		 </tr>
+		<tr>
+			<th> LI4 </th>
+			<td><a href="https://github.com/afonsofrancof/TechFinder"> Tech Finder</a> </td>
+			<td> Group project </td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/afonsofrancof/TechFinder-Database-API"> Tech Finder Database API</a></td>
+			<td> MySQL API for TechFinder</td>
+		</tr>
+		<tr>
+			<th> IA </th>
+			<td> <a href="https://github.com/LucasVerdelho/IA-Project">  Package Route Calculator </a></td>
+			<td> Prolog program to calculate routes between points based on attributes </td>
+		</tr>
+		<tr>
+			<th> CC - 1 </th>
+			<td><a href="https://github.com/LucasVerdelho/CC-First_Project">  FFSync </a> </td>
+			<td> Sync Files between computers</td>
+		</tr>
+		<tr>
+			<th> SD - 1 </th>
+			<td> <a href="https://github.com/LucasVerdelho/SD-First_Project">  Flight Reservation Simulator </a> </td>
+			<td> Group Project </td>
+		</tr>
+		<tr>
+			<th> DSS </th>
+			<td> <a href="https://github.com/LucasVerdelho/DSS-Project">  </a></td>
+			<td> Group Project </td>
+		</tr>
+		<tr>
+			<th> CG </th>
+			<td><a href="https://github.com/afonsofrancof/Solar-System-OpenGL">  Solar System in OpenGL </a></td>
+			<td> Group Project </td>
+		</tr>
+		<tr>
+			<th> PL </th>
+			<td> <a href="https://github.com/LucasVerdelho/PL-Project"> Python Converter </a></td>
+			<td> Group Project </td>
+		</tr>
+		<tr>
+			<th> <a href="https://github.com/afonsofrancof/PLY-Simple-to-PLY">  PLY-Simple to PLY converter </a> </th>
+			<td> Turn PLY-Simple into PL using Python</td>
+		</tr>
+	</table>
+</li>
+
+
+
 
 
 
@@ -45,7 +111,7 @@
 </p>
 
 <p align = "center">
-    <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVerdelho&hide=javascript,html,roff,cmake,batchfile&layout=compact&count_private=true&theme=cobalt>
+    <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVerdelho&hide=javascript,html,roff,cmake,batchfile,hlsl&layout=compact&count_private=true&theme=cobalt>
 
 </p>
 
