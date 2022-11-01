@@ -1,7 +1,6 @@
 
-<p align = "center">
-    <img src="https://github.com/LucasVerdelho/LucasVerdelho/readme_assets/totoro.gif"/>
-</p>
+<img src="https://github.com/LucasVerdelho/LucasVerdelho/readme_assets/totoro.gif"/>
+
 
 
 
