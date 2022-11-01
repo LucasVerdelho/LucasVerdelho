@@ -31,7 +31,9 @@
 <p align="center">
 
 <div align="center">
-<h2> Personal Projects </h2>
+<h2> Personal Projects
+    <img src="https://github.com/LucasVerdelho/LucasVerdelho/blob/main/readme_assets/Nice.gif" width="50">
+</h2>
     <table>
 	    <tr>
 		    <th> Type of Project </th>
@@ -48,7 +50,9 @@
 
 <div align="center">
 <p align="center">
-<h2> University Projects </h2>
+<h2> University Projects 
+    <img src="https://github.com/LucasVerdelho/LucasVerdelho/blob/main/readme_assets/intense_eyes.gif" width="50">
+</h2>
     <table>
 	    <tr>
 		    <th> Class </th>
