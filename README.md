@@ -52,13 +52,14 @@
 			<td> Group project </td>
 		</tr>
 		<tr>
+            <th> LI4 </th>
 			<td><a href="https://github.com/afonsofrancof/TechFinder-Database-API"> Tech Finder Database API</a></td>
 			<td> MySQL API for TechFinder</td>
 		</tr>
 		<tr>
 			<th> IA </th>
 			<td> <a href="https://github.com/LucasVerdelho/IA-Project">  Package Route Calculator </a></td>
-			<td> Prolog program to calculate routes between points based on attributes </td>
+			<td> Group Project </td>
 		</tr>
 		<tr>
 			<th> CC - 1 </th>
@@ -72,7 +73,7 @@
 		</tr>
 		<tr>
 			<th> DSS </th>
-			<td> <a href="https://github.com/LucasVerdelho/DSS-Project">  </a></td>
+			<td> <a href="https://github.com/LucasVerdelho/DSS-Project"> Repair Centre </a></td>
 			<td> Group Project </td>
 		</tr>
 		<tr>
