@@ -1,4 +1,11 @@
-### Hello there
+### 
+
+<img src="https://github.com/LucasVerdelho/LucasVerdelho/blob/main/tumblr_72c4620bb9b0d9b2bd705419df648242_4e193d39_540.gif"/>
+
+
+
+
+
 
 [![LucasVerdelho's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasVerdelho&count_private=true&hide=issues&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
