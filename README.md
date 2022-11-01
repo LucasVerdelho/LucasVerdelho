@@ -85,10 +85,6 @@
 			<td> <a href="https://github.com/LucasVerdelho/PL-Project"> Python Converter </a></td>
 			<td> Group Project </td>
 		</tr>
-		<tr>
-			<th> <a href="https://github.com/afonsofrancof/PLY-Simple-to-PLY">  PLY-Simple to PLY converter </a> </th>
-			<td> Turn PLY-Simple into PL using Python</td>
-		</tr>
 	</table>
 </li>
 
