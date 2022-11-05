@@ -131,7 +131,7 @@
 </p>
 
 <p align = "center">
-    <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVerdelho&hide=javascript,html,roff,cmake,batchfile,hlsl&layout=compact&count_private=true&theme=cobalt>
+    <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVerdelho&hide=javascript,html,roff,cmake,batchfile,hlsl,makefile&layout=compact&count_private=true&theme=cobalt>
 
 </p>
 
