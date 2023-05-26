@@ -109,6 +109,11 @@
 			<td> <a href="https://github.com/LucasVerdelho/PL-Project"> Python Converter </a></td>
 			<td> Group Project </td>
 		</tr>
+	    	<tr>
+			<th> SO </th>
+			<td> <a href="https://github.com/LucasVerdelho/SO-Project"> Multiprocessing in C</a></td>
+			<td> Group Project </td>
+		</tr>
 	</table>
 </p>
 </div>
