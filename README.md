@@ -34,16 +34,24 @@
 <h2> Personal Projects
     <img src="https://github.com/LucasVerdelho/LucasVerdelho/blob/main/readme_assets/Nice.gif" width="50">
 </h2>
-    <table>
-	    <tr>
-		    <th> Type of Project </th>
-		    <th> Project Name </th>
-		    <th> Project Description </th>
-	    </tr>
-		<th> Automation/Script </th>
-		<td> <a href="https://github.com/LucasVerdelho/Terminal_Randomizer"> Terminal_Randomizer </a> </td>
-		<td> Randomize the appearance of a Windows Terminal </td>
-    </table>
+<table>
+    <tr>
+        <th> Type of Project </th>
+        <th> Project Name </th>
+        <th> Project Description </th>
+    </tr>
+    <tr>
+        <td> Audio Plugin </td>
+        <td> <a href="https://github.com/LucasVerdelho/SimpleQ">SimpleQ</a> </td>
+        <td> Simple 3 Band EQ </td>
+    </tr>
+    <tr>
+        <td> Automation/Script </td>
+        <td> <a href="https://github.com/LucasVerdelho/Terminal_Randomizer">Terminal_Randomizer</a> </td>
+        <td> Randomize the appearance of a Windows Terminal </td>
+    </tr>
+</table>
+
 </p>
 </div>
 
@@ -122,23 +130,6 @@
 
 
 
-
-
-
-<h2 align="center">
-  Minhas stats pro gamer
-    <!-- <img src="link para gif" width="50"> -->
-</h2>
- 
-
-<p align = "center">
-    <img src=https://github-readme-stats.vercel.app/api?username=LucasVerdelho&count_private=true&hide=issues&show_icons=true&theme=cobalt>
-</p>
-
-<p align = "center">
-    <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVerdelho&hide=javascript,html,roff,cmake,batchfile,hlsl,makefile&layout=compact&count_private=true&theme=cobalt>
-
-</p>
 
 
 
