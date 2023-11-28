@@ -42,6 +42,11 @@
     </tr>
     <tr>
         <td> Audio Plugin </td>
+        <td> <a href="https://github.com/LucasVerdelho/SimpleMBC">SimpleMBC</a> </td>
+        <td> MultiBand Compressor </td>
+    </tr>
+    <tr>
+        <td> Audio Plugin </td>
         <td> <a href="https://github.com/LucasVerdelho/SimpleQ">SimpleQ</a> </td>
         <td> Simple 3 Band EQ </td>
     </tr>
@@ -120,6 +125,11 @@
 	    	<tr>
 			<th> SO </th>
 			<td> <a href="https://github.com/LucasVerdelho/SO-Project"> Multiprocessing in C</a></td>
+			<td> Solo Project </td>
+		</tr>
+	    	<tr>
+			<th> CC - 2</th>
+			<td> <a href="https://github.com/LucasVerdelho/rust-cc"> Network in Rust </td>
 			<td> Group Project </td>
 		</tr>
 	</table>
