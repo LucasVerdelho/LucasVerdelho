@@ -14,11 +14,27 @@
 
 --->
 
+
+
+<!---
+ ABSTRTACT	
+This professional narrative outlines my academic journey from a Bachelor's in Computer Science to the ongoing pursuit of a Master's degree, specializing in Computer Graphics, Image Processing, Computer Vision, Cryptography, and Information Security. Proficient in C, C++, and Python, I navigate low-level programming, performance-critical applications, and Data Analysis/Machine Learning. My versatile skill set extends to Rust, Haskell, Java, and a continual commitment to mastering emerging languages and technologies.
+
+Beyond academia, I am an accomplished musician and music producer, exploring Digital Signal Processing, Audio Plugin development, and Digital Audio Workstations. Proficient in VST3 plugin development with the JUCE framework, I've implemented a Multiband Compressor and a 3 Band EQ. In the visual realm, my expertise spans photography, graphic design, and 3D Modelling/Animation. I've ventured into Video Game and Virtual Reality development using OpenGL, showcasing a Solar System simulation.
+
+Enrolled in Cryptography and Information Security, my goal is to enhance my role as a developer by creating secure and reliable applications. This comprehensive background reflects adaptability, versatility, and a commitment to continuous learning, making me an ideal candidate for diverse projects and technologies.
+
+--->
+
+
 # Current Projects
-| Project | Description |
-|------------|------------|
-| | |
-| | |
+| Project          | Description |
+|------------------|-------------|
+| [VCPI](https://github.com/lucasverdelho/VCPI)   | Image Processing and Computer Vision |
+| [VI - Renderer](https://github.com/lucasverdelho/VI-Renderer)   | Scene Renderer in C++ with RayTracing |
+| [VTR - Shaders](https://github.com/lucasverdelho/VTR)   | Learning Vertex and Fragment Shaders in GLSL |
+| [EC - Assingments](https://github.com/lucasverdelho/EChttps://github.com/lucasverdelho/EC) | Cryptography Algorithms |
+
 
 
 
