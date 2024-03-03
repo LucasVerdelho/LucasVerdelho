@@ -12,15 +12,36 @@
 <p align="center">
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
-<img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/Haskell-5e5086?style=flat&logo=haskell&logoColor=white"/>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white"/>
-<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"/> <!-->  <-->
+<img src="https://img.shields.io/badge/Haskell-5e5086?style=flat&logo=haskell&logoColor=white"/> <!-->  <-->
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white"/> <!-->  <-->
+<img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white"/> <!-->  <-->
+<img src="https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white"/> <!-->  <-->
+<img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl&logoColor=white"/> <!-->  <-->
+<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/> <!-->  <-->
+<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white"/> <!-->  <-->
+<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black"/> <!-->  <-->
+<img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white"/>  <!-->  <-->
+<img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=flat&logo=express&logoColor=white"/> <!-->  <-->
+<!--> Include MongoDB, Shaders GLSL, <-->
+<img src=""/>
+<img src=""/>
+<img src=""/>
+<img src=""/>
+<img src=""/>
+<img src=""/>
+<img src=""/>
+<img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"/>  <!--> Adobe <-->
+<img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"/> <!--> Lightroom <-->
+<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/> <!--> MySQL <-->
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/> <!--> Git <-->
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/> <!--> Github <-->
 </p>
+
+
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+
+
 
 
 <h2 align="center">
