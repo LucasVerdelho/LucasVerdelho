@@ -207,7 +207,7 @@ Enrolled in Cryptography and Information Security, my goal is to enhance my role
 		<tr>
 			<th> DSS </th>
 			<td> <a href="https://github.com/LucasVerdelho/DSS-Project"> Repair Centre </a></td>
-			<td> Diagrams and Software Planning - 1 </td>
+			<td> Diagrams and Software Planning</td>
 		</tr>
 		<tr>
 			<th> CG </th>
