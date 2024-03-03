@@ -15,6 +15,18 @@
 --->
 
 
+<!---
+More Professional
+# About Me 
+- I hold a Bachelor's degree in Computer Science and am presently pursuing a Master's degree in Computer Science at the University of Minho, specializing in the fields of Computer Graphics, Image Processing, Computer Vision, Cryptography, and Information Security. My academic focus aims to broaden my expertise across a diverse array of subjects, with the ultimate goal of establishing myself as a developer endowed with a robust foundation in sound programming practices and a comprehensive comprehension of the underlying principles governing the technologies I engage with.
+- My primary technological proficiency is centered around C, C++, and Python. I employ C and C++ for low-level programming and performance-critical applications, while Python serves as my tool of choice for Data Analysis and Machine Learning. My repertoire also includes experience with Rust, Haskell, and Java, and I remain committed to expanding my proficiency in emerging languages and technologies.
+- Beyond the realm of computer science, I am an avid musician and music producer. Currently, I am delving into the realms of Digital Signal Processing, the development of Audio Plugins, along with the exploration of Audio Effects and Synthesizers. My ongoing endeavors involve learning the intricacies of VST3 plugin development using the JUCE framework, with completed projects including rudimentary versions of a Multiband Compressor and a 3 Band EQ.
+- In addition to my musical pursuits, I am actively engaged in learning 3D Modelling and Animation. My interest extends to the development of Video Games and Virtual Reality applications, with a particular focus on the utilization of OpenGL for the creation of 3D applications. 
+- Furthermore, my enrollment in the field of Cryptography and Information Security underscores my commitment to becoming a comprehensive developer. I aspire to create secure and reliable applications while comprehending the broader implications of the technologies I employ, not only in my capacity as a developer but also as a user and a responsible citizen.
+- My extensive background in Computer Science, coupled with diverse experiences across various technologies and fields, reflects my versatility and adaptability as a developer. My unwavering passion for learning, coupled with a strong work ethic, positions me as a dynamic professional capable of undertaking a wide spectrum of projects and technologies, perpetually seeking to augment my knowledge and enhance my skill set.
+
+--->
+
 
 <!---
  ABSTRTACT	
