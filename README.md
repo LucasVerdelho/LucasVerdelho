@@ -63,6 +63,8 @@
 
 <div align="center">
 <p align="center">
+<div align="center">
+<p align="center">
 <h2> University Projects 
     <img src="https://github.com/LucasVerdelho/LucasVerdelho/blob/main/readme_assets/intense_eyes.gif" width="50">
 </h2>
@@ -75,64 +77,68 @@
 	    <tr>
 			<th> LI2 </th>
 			<td> <a href="https://github.com/LucasVerdelho/LI2-Project"> Rastros in C </a> </td>
-			<td> Group Project </td>
+			<td> Simple Tabletop Game in C </td>
 	    </tr>
 		<tr>
 			<th> POO </th>
 			<td> <a href="https://github.com/LucasVerdelho/POO-Project"> Football Manager in Java </a></td>
-			<td> POO group project </td>
+			<td> Introduction to OOP </td>
 		 </tr>
 		<tr>
 			<th> LI4 </th>
 			<td><a href="https://github.com/afonsofrancof/TechFinder"> Tech Finder</a> </td>
-			<td> Group project </td>
+			<td> Mobile App using Kotlin </td>
 		</tr>
 		<tr>
             <th> LI4 </th>
 			<td><a href="https://github.com/afonsofrancof/TechFinder-Database-API"> Tech Finder Database API</a></td>
-			<td> MySQL API for TechFinder</td>
+			<td> MySQL API for TechFinder </td>
 		</tr>
 		<tr>
 			<th> IA </th>
 			<td> <a href="https://github.com/LucasVerdelho/IA-Project">  Package Route Calculator </a></td>
-			<td> Group Project </td>
+			<td> Optimizing Delivery Paths </td>
 		</tr>
 		<tr>
 			<th> CC - 1 </th>
 			<td><a href="https://github.com/LucasVerdelho/CC-First_Project">  FFSync </a> </td>
-			<td> Sync Files between computers</td>
+			<td> Sync Files Between Computers </td>
 		</tr>
 		<tr>
-			<th> SD - 1 </th>
+			<th> SD </th>
 			<td> <a href="https://github.com/LucasVerdelho/SD-First_Project">  Flight Reservation Simulator </a> </td>
-			<td> Group Project </td>
+			<td> Java Concurrency Program </td>
 		</tr>
 		<tr>
 			<th> DSS </th>
 			<td> <a href="https://github.com/LucasVerdelho/DSS-Project"> Repair Centre </a></td>
-			<td> Group Project </td>
+			<td> Diagrams and Software Planning - 1 </td>
 		</tr>
 		<tr>
 			<th> CG </th>
-			<td><a href="https://github.com/afonsofrancof/Solar-System-OpenGL">  Solar System in OpenGL </a></td>
-			<td> Group Project </td>
+			<td><a href="https://github.com/lucasverdelho/ProjetoCG-FINAL">  Solar System in OpenGL </a></td>
+			<td> Introduction to OpenGL </td>
 		</tr>
 		<tr>
 			<th> PL </th>
 			<td> <a href="https://github.com/LucasVerdelho/PL-Project"> Python Converter </a></td>
-			<td> Group Project </td>
+			<td> Python Lexer </td>
 		</tr>
 	    	<tr>
 			<th> SO </th>
 			<td> <a href="https://github.com/LucasVerdelho/SO-Project"> Multiprocessing in C</a></td>
-			<td> Solo Project </td>
+			<td> Multiprocess and Pipes in C </td>
 		</tr>
 	    	<tr>
 			<th> CC - 2</th>
 			<td> <a href="https://github.com/LucasVerdelho/rust-cc"> Network in Rust </td>
-			<td> Group Project </td>
+			<td> Rust Network Protocol </td>
 		</tr>
 		<!-- Mestrado -->
+		<tr>
+			<th> RAS </th>
+			<td> <a href="https://github.com/lucasverdelho/ras_micro"> Simple Webpage </td>
+		</tr>
 		<tr>
 			<th> DAA-1 </th>
 			<td> <a href="https://github.com/lucasverdelho/DAA_Worksheets"> Worksheets </a></td>
@@ -171,7 +177,6 @@
 	</table>
 </p>
 </div>
-
 
 
 
