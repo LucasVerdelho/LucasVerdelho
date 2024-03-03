@@ -2,6 +2,33 @@
     <img src="https://github.com/LucasVerdelho/LucasVerdelho/blob/main/readme_assets/totoro.gif"/>
 </p>
 
+<!---
+
+# About Me
+- I have a Bachelor's in Computer Science and I'm currently doing my Master's in Computer Science at the University of Minho, specializing on the field of Computer Graphics, Image Processing and Computer Vision, alongside Cryptography and Information Security, looking to expand my knowledge on a wide range of subjects, aspiring to become a developer with a strong background in good programming practices and a strong understanding of the underlying concepts of the technologies I use.
+- My primary tech stack revolves around C, C++ and Python. I use C and C++ for low level programming and performance critical applications, while I use Python for Data Analysis and Machine Learning. I also have experience with Rust, Haskell and Java, and I'm always looking to expand my knowledge on new languages and technologies.
+- I'm also a musician and a music producer, and I'm currently learning about Digital Signal Processing and the development of Audio Plugins, as well as the development of Digital Audio Workstations and the development of Audio Effects and Synthesizers. I'm also learning about the development of VST3 plugins using the JUCE framework, and so far I have developed simple versions of a Multiband Compressor and a 3 Band EQ.
+- I'm also a photographer and a graphic designer, and I'm currently learning about 3D Modelling and Animation, as well as the development of Video Games and Virtual Reality applications. I'm also learning about the development of 3D applications using OpenGL, and so far I have developed a simple Solar System simulation using OpenGL.
+- I also enrolled in the Cryptography and Information Security field in order to become a more complete developer, aspiring to create secure and reliable applications as well as to understand the wider implications of the technologies I use, not only as a developer, but also as a user and a citizen.
+- My background in Computer Science and my experience with a wide range of technologies and fields, as well as my passion for learning and my strong work ethic, make me a versatile and adaptable developer, capable of working on a wide range of projects and technologies, and always looking to expand my knowledge and to improve my skills.
+
+--->
+
+# Current Projects
+| Project | Description |
+|------------|------------|
+| | |
+| | |
+
+
+
+
+
+
+
+
+
+
 <h2 align="center">Meus diversos skills (ou não :/) 
 <img src="https://github.com/LucasVerdelho/LucasVerdelho/blob/main/readme_assets/hmmm.gif" width="50">
 </h2>
