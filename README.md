@@ -132,9 +132,46 @@
 			<td> <a href="https://github.com/LucasVerdelho/rust-cc"> Network in Rust </td>
 			<td> Group Project </td>
 		</tr>
+		<!-- Mestrado -->
+		<tr>
+			<th> DAA-1 </th>
+			<td> <a href="https://github.com/lucasverdelho/DAA_Worksheets"> Worksheets </a></td>
+			<td> Class Worksheets Resolutions </td>
+		</tr>
+		<tr>
+			<th> DAA-2 </th>
+			<td> <a href="https://github.com/lucasverdelho/trabalho_daa"> Pratical Assignment </a></td>
+			<td> Machine Learning Introduction </td>
+		</tr>
+		<tr>
+			<th> CP </th>
+			<td> <a href="https://github.com/lucasverdelho/molecular_dynamics"> Molecular Dynamics </a></td>
+			<td> Optimizing Scientific Simulations </td>
+		</tr>
+		<tr>
+			<th> ESR </th>
+			<td> <a href="https://github.com/lucasverdelho/multicastpy"> MulticastPython </a></td>
+			<td> Multicast In Python </td>
+		</tr>
+		<tr>
+			<th> VI </th>
+			<td> <a href="https://github.com/lucasverdelho/VI-Renderer"> Scene Renderer </a></td>
+			<td> Rendering Full Scenes with Ray Tracing </td>
+		</tr>
+		<tr>
+			<th> VCPI </th>
+			<td> <a href="https://github.com/lucasverdelho/VCPI"> Computer Image Processing </a></td>
+			<td> Processing Images with Python </td>
+		</tr>
+		<tr>
+			<th> EC </th>
+			<td> <a href="https://github.com/lucasverdelho/EC"> Cryptography </a></td>
+			<td> Cryptography Assignments </td>
+		</tr>
 	</table>
 </p>
 </div>
+
 
 
 
