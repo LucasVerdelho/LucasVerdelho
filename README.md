@@ -1,7 +1,3 @@
-<p align = "center">
-    <img src="https://github.com/LucasVerdelho/LucasVerdelho/blob/main/readme_assets/totoro.gif"/>
-</p>
-
 <!---
 
 # About Me
@@ -48,19 +44,7 @@ Enrolled in Cryptography and Information Security, my goal is to enhance my role
 | [EC - Assingments](https://github.com/lucasverdelho/EChttps://github.com/lucasverdelho/EC) | Cryptography Algorithms |
 
 
-
-
-
-
-
-
-
-
-
-<!-- <h2 align="center">Meus diversos skills (ou não :/) 
-<img src="https://github.com/LucasVerdelho/LucasVerdelho/blob/main/readme_assets/hmmm.gif" width="50">
-</h2> -->
-
+# Technologies
 ### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -124,158 +108,64 @@ Enrolled in Cryptography and Information Security, my goal is to enhance my role
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-FF314D?style=for-the-badge&logo=DaVinci%20Resolve&logoColor=white)
 
 
+## Personal Projects
 
-<!-- <h2 align="center">
-    Great Success
-    <img src="https://github.com/LucasVerdelho/LucasVerdelho/blob/main/readme_assets/success.gif" width="50">
-</h2>
-  -->
-<p align="center">
+| Type of Project      | Project Name                                     | Project Description                        |
+|----------------------|--------------------------------------------------|--------------------------------------------|
+| Audio Plugin         | [SimpleMBC](https://github.com/LucasVerdelho/SimpleMBC) | Fully featured Multi-Band Compressor written in C++, utilizing the JUCE framework |
+| Audio Plugin         | [SimpleQ](https://github.com/LucasVerdelho/SimpleQ)   | Simple 3 Band EQ written in C++,  utilizing the JUCE framework |
+| Automation/Script    | [Terminal_Randomizer](https://github.com/LucasVerdelho/Terminal_Randomizer) | Randomize the appearance of a Windows Terminal |
 
-<div align="center">
-<h2> Personal Projects
-    <!-- <img src="https://github.com/LucasVerdelho/LucasVerdelho/blob/main/readme_assets/Nice.gif" width="50"> -->
-</h2>
-<table>
-    <tr>
-        <th> Type of Project </th>
-        <th> Project Name </th>
-        <th> Project Description </th>
-    </tr>
-    <tr>
-        <td> Audio Plugin </td>
-        <td> <a href="https://github.com/LucasVerdelho/SimpleMBC">SimpleMBC</a> </td>
-        <td> MultiBand Compressor </td>
-    </tr>
-    <tr>
-        <td> Audio Plugin </td>
-        <td> <a href="https://github.com/LucasVerdelho/SimpleQ">SimpleQ</a> </td>
-        <td> Simple 3 Band EQ </td>
-    </tr>
-    <tr>
-        <td> Automation/Script </td>
-        <td> <a href="https://github.com/LucasVerdelho/Terminal_Randomizer">Terminal_Randomizer</a> </td>
-        <td> Randomize the appearance of a Windows Terminal </td>
-    </tr>
-</table>
 
-</p>
-</div>
+## University Projects
 
-<div align="center">
-<p align="center">
-<div align="center">
-<p align="center">
-<h2> University Projects 
-    <!-- <img src="https://github.com/LucasVerdelho/LucasVerdelho/blob/main/readme_assets/intense_eyes.gif" width="50"> -->
-</h2>
-    <table>
-	    <tr>
-		    <th> Class </th>
-		    <th> Project Name </th>
-		    <th> Project Description </th>
-	    </tr>
-	    <tr>
-			<th> LI2 </th>
-			<td> <a href="https://github.com/LucasVerdelho/LI2-Project"> Rastros in C </a> </td>
-			<td> Simple Tabletop Game in C </td>
-	    </tr>
-		<tr>
-			<th> POO </th>
-			<td> <a href="https://github.com/LucasVerdelho/POO-Project"> Football Manager in Java </a></td>
-			<td> Introduction to OOP </td>
-		 </tr>
-		<tr>
-			<th> LI4 </th>
-			<td><a href="https://github.com/afonsofrancof/TechFinder"> Tech Finder</a> </td>
-			<td> Mobile App using Kotlin </td>
-		</tr>
-		<tr>
-            <th> LI4 </th>
-			<td><a href="https://github.com/afonsofrancof/TechFinder-Database-API"> Tech Finder Database API</a></td>
-			<td> MySQL API for TechFinder </td>
-		</tr>
-		<tr>
-			<th> IA </th>
-			<td> <a href="https://github.com/LucasVerdelho/IA-Project">  Package Route Calculator </a></td>
-			<td> Optimizing Delivery Paths </td>
-		</tr>
-		<tr>
-			<th> CC - 1 </th>
-			<td><a href="https://github.com/LucasVerdelho/CC-First_Project">  FFSync </a> </td>
-			<td> Sync Files Between Computers </td>
-		</tr>
-		<tr>
-			<th> SD </th>
-			<td> <a href="https://github.com/LucasVerdelho/SD-First_Project">  Flight Reservation Simulator </a> </td>
-			<td> Java Concurrency Program </td>
-		</tr>
-		<tr>
-			<th> DSS </th>
-			<td> <a href="https://github.com/LucasVerdelho/DSS-Project"> Repair Centre </a></td>
-			<td> Diagrams and Software Planning</td>
-		</tr>
-		<tr>
-			<th> CG </th>
-			<td><a href="https://github.com/lucasverdelho/ProjetoCG-FINAL">  Solar System in OpenGL </a></td>
-			<td> Introduction to OpenGL </td>
-		</tr>
-		<tr>
-			<th> PL </th>
-			<td> <a href="https://github.com/LucasVerdelho/PL-Project"> Python Converter </a></td>
-			<td> Python Lexer </td>
-		</tr>
-	    	<tr>
-			<th> SO </th>
-			<td> <a href="https://github.com/LucasVerdelho/SO-Project"> Multiprocessing in C</a></td>
-			<td> Multiprocess and Pipes in C </td>
-		</tr>
-	    	<tr>
-			<th> CC - 2</th>
-			<td> <a href="https://github.com/LucasVerdelho/rust-cc"> Network in Rust </td>
-			<td> Rust Network Protocol </td>
-		</tr>
-		<!-- Mestrado -->
-		<tr>
-			<th> RAS </th>
-			<td> <a href="https://github.com/lucasverdelho/ras_micro"> Simple Webpage </td>
-			<td> Simple Webpage using Express.js </td>
-		</tr>
-		<tr>
-			<th> DAA-1 </th>
-			<td> <a href="https://github.com/lucasverdelho/DAA_Worksheets"> Worksheets </a></td>
-			<td> Class Worksheets Resolutions </td>
-		</tr>
-		<tr>
-			<th> DAA-2 </th>
-			<td> <a href="https://github.com/lucasverdelho/trabalho_daa"> Pratical Assignment </a></td>
-			<td> Machine Learning Introduction </td>
-		</tr>
-		<tr>
-			<th> CP </th>
-			<td> <a href="https://github.com/lucasverdelho/molecular_dynamics"> Molecular Dynamics </a></td>
-			<td> Optimizing Scientific Simulations </td>
-		</tr>
-		<tr>
-			<th> ESR </th>
-			<td> <a href="https://github.com/lucasverdelho/multicastpy"> MulticastPython </a></td>
-			<td> Multicast In Python </td>
-		</tr>
-		<tr>
-			<th> VI </th>
-			<td> <a href="https://github.com/lucasverdelho/VI-Renderer"> Scene Renderer </a></td>
-			<td> Rendering Full Scenes with Ray Tracing </td>
-		</tr>
-		<tr>
-			<th> VCPI </th>
-			<td> <a href="https://github.com/lucasverdelho/VCPI"> Computer Image Processing </a></td>
-			<td> Processing Images with Python </td>
-		</tr>
-		<tr>
-			<th> EC </th>
-			<td> <a href="https://github.com/lucasverdelho/EC"> Cryptography </a></td>
-			<td> Cryptography Assignments </td>
-		</tr>
-	</table>
-</p>
-</div>
+### High-Performance Computing (HPC)
+
+| Class | Project Name                                      | Project Description                    |
+|-------|---------------------------------------------------|----------------------------------------|
+| SO    | [Multiprocessing in C](https://github.com/LucasVerdelho/SO-Project) | Introduction to Multiprocess and Pipes in C      |
+| CP    | [Molecular Dynamics](https://github.com/lucasverdelho/molecular_dynamics) | Optimizing Scientific Molecular Simulations whilst maitaining scientific rigour and accuracy |
+
+
+### Programming Languages and Paradigms
+
+| Class | Project Name                                      | Project Description                    |
+|-------|---------------------------------------------------|----------------------------------------|
+| LI2   | [Rastros in C](https://github.com/LucasVerdelho/LI2-Project) | Simple Tabletop Game in C |
+| POO   | [Football Manager in Java](https://github.com/LucasVerdelho/POO-Project) | Introduction to OOP |
+| LI4   | [Tech Finder](https://github.com/afonsofrancof/TechFinder) | Mobile App using Kotlin |
+| LI4   | [Tech Finder Database API](https://github.com/afonsofrancof/TechFinder-Database-API) | MySQL API for TechFinder |
+
+### Artificial Intelligence and Data Analysis
+
+| Class | Project Name                                      | Project Description                    |
+|-------|---------------------------------------------------|----------------------------------------|
+| IA    | [Package Route Calculator](https://github.com/LucasVerdelho/IA-Project) | Optimizing Delivery Paths |
+| DAA-1 | [Worksheets](https://github.com/lucasverdelho/DAA_Worksheets) | Class Worksheets Resolutions          |
+| DAA-2 | [Practical Assignment](https://github.com/lucasverdelho/trabalho_daa) | Machine Learning Introduction         |
+
+### Computer Networks and Systems
+
+| Class | Project Name                                      | Project Description                    |
+|-------|---------------------------------------------------|----------------------------------------|
+| CC - 1| [FFSync](https://github.com/LucasVerdelho/CC-First_Project) | Sync Files Between Computers |
+| SD    | [Flight Reservation Simulator](https://github.com/LucasVerdelho/SD-First_Project) | Java Concurrency Program, focusing on the issues of concurrent programming    |
+| CC - 2| [Network in Rust](https://github.com/LucasVerdelho/rust-cc) | Rust Network Protocol using sockets and threads to send and read packets |
+
+
+### Computer Graphics and Image Processing
+
+| Class | Project Name                                      | Project Description                    |
+|-------|---------------------------------------------------|----------------------------------------|
+| CG    | [Solar System in OpenGL](https://github.com/lucasverdelho/ProjetoCG-FINAL) | Introduction to OpenGL and Computer Graphics Processing pipeline  |
+| VI    | [Scene Renderer](https://github.com/lucasverdelho/VI-Renderer) | Rendering Full Scenes with Ray Tracing |
+| VCPI  | [Computer Image Processing](https://github.com/lucasverdelho/VCPI) | Processing Images with Python |
+
+### Others
+
+| Class | Project Name                                      | Project Description                    |
+|-------|---------------------------------------------------|----------------------------------------|
+| RAS   | [Simple Webpage](https://github.com/lucasverdelho/ras_micro) | Simple Webpage using Express.js  |
+| ESR   | [MulticastPython](https://github.com/lucasverdelho/multicastpy) | Multicast In Python  |
+| EC    | [Cryptography](https://github.com/lucasverdelho/EC) | Cryptography Assignments  |
+
