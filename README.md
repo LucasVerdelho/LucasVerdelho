@@ -1,3 +1,42 @@
+# About Me
+
+## Professional Summary
+
+I am a highly motivated and skilled programmer with a strong background in C and C++, specializing in concurrent programming libraries and functionalities. My passion lies in the art of smart code improvement, and I bring a wealth of experience in enhancing software efficiency through concurrent programming techniques.
+
+## Technical Expertise
+
+- **Programming Languages:** Proficient in C, C++, Python, and R.
+- **Concurrent Programming:** Extensive experience in concurrent programming libraries and techniques.
+- **Data Science:** Deep understanding of statistics and data science, with hands-on experience in Python and Power BI.
+
+## Support and Technical Assistance
+
+I excel in providing advanced technical support and guidance to researchers and scientists, ensuring effective utilization of HPC resources. My problem-solving skills are robust, allowing me to diagnose and resolve complex computing issues efficiently.
+
+## Software Development and Optimization
+
+With a strong foundation in computer science, I specialize in the development and optimization of parallel and distributed applications for scientific computing. I am adept at identifying and implementing performance optimizations to enhance computational efficiency.
+
+## Data Analysis and Collaboration
+
+My expertise extends to data analysis, utilizing tools like Python, R, and other relevant technologies to extract meaningful insights from scientific data. I am an excellent communicator, both verbally and in writing, fostering effective collaboration with researchers and colleagues.
+
+## Continuous Learning and Research
+
+Currently pursuing a master's degree in Computer Science, with a focus on Cybersecurity and Computer Graphics, I am committed to continuous learning. I stay updated with emerging technologies and advancements in high-performance computing, scientific programming, and data analysis.
+
+## Team Player
+
+I thrive in collaborative environments, enjoying the exchange of ideas within a team. Whether contributing to discussions or learning and teaching when necessary, I bring a positive and cooperative approach to team dynamics.
+
+I am eager to apply my skills and knowledge to contribute to the success of your team, leveraging my technical expertise and passion for continuous improvement in the field of high-performance computing.
+
+
+
+
+
+
 <!---
 
 # About Me
@@ -8,10 +47,6 @@
 - I also enrolled in the Cryptography and Information Security field in order to become a more complete developer, aspiring to create secure and reliable applications as well as to understand the wider implications of the technologies I use, not only as a developer, but also as a user and a citizen.
 - My background in Computer Science and my experience with a wide range of technologies and fields, as well as my passion for learning and my strong work ethic, make me a versatile and adaptable developer, capable of working on a wide range of projects and technologies, and always looking to expand my knowledge and to improve my skills.
 
---->
-
-
-<!---
 More Professional
 # About Me 
 - I hold a Bachelor's degree in Computer Science and am presently pursuing a Master's degree in Computer Science at the University of Minho, specializing in the fields of Computer Graphics, Image Processing, Computer Vision, Cryptography, and Information Security. My academic focus aims to broaden my expertise across a diverse array of subjects, with the ultimate goal of establishing myself as a developer endowed with a robust foundation in sound programming practices and a comprehensive comprehension of the underlying principles governing the technologies I engage with.
@@ -21,17 +56,12 @@ More Professional
 - Furthermore, my enrollment in the field of Cryptography and Information Security underscores my commitment to becoming a comprehensive developer. I aspire to create secure and reliable applications while comprehending the broader implications of the technologies I employ, not only in my capacity as a developer but also as a user and a responsible citizen.
 - My extensive background in Computer Science, coupled with diverse experiences across various technologies and fields, reflects my versatility and adaptability as a developer. My unwavering passion for learning, coupled with a strong work ethic, positions me as a dynamic professional capable of undertaking a wide spectrum of projects and technologies, perpetually seeking to augment my knowledge and enhance my skill set.
 
---->
-
-
-<!---
  ABSTRTACT	
 This professional narrative outlines my academic journey from a Bachelor's in Computer Science to the ongoing pursuit of a Master's degree, specializing in Computer Graphics, Image Processing, Computer Vision, Cryptography, and Information Security. Proficient in C, C++, and Python, I navigate low-level programming, performance-critical applications, and Data Analysis/Machine Learning. My versatile skill set extends to Rust, Haskell, Java, and a continual commitment to mastering emerging languages and technologies.
 
 Beyond academia, I am an accomplished musician and music producer, exploring Digital Signal Processing, Audio Plugin development, and Digital Audio Workstations. Proficient in VST3 plugin development with the JUCE framework, I've implemented a Multiband Compressor and a 3 Band EQ. In the visual realm, my expertise spans photography, graphic design, and 3D Modelling/Animation. I've ventured into Video Game and Virtual Reality development using OpenGL, showcasing a Solar System simulation.
 
 Enrolled in Cryptography and Information Security, my goal is to enhance my role as a developer by creating secure and reliable applications. This comprehensive background reflects adaptability, versatility, and a commitment to continuous learning, making me an ideal candidate for diverse projects and technologies.
-
 --->
 
 
@@ -124,7 +154,7 @@ Enrolled in Cryptography and Information Security, my goal is to enhance my role
 | Class | Project Name                                      | Project Description                    |
 |-------|---------------------------------------------------|----------------------------------------|
 | SO    | [Multiprocessing in C](https://github.com/LucasVerdelho/SO-Project) | Introduction to Multiprocess and Pipes in C      |
-| CP    | [Molecular Dynamics](https://github.com/lucasverdelho/molecular_dynamics) | Optimizing Scientific Molecular Simulations whilst maitaining scientific rigour and accuracy |
+| CP    | [Molecular Dynamics](https://github.com/lucasverdelho/molecular_dynamics) | Optimizing scientific Molecular Dynamics simulations whilst maitaining scientific rigour and accuracy |
 
 
 ### Programming Languages and Paradigms
