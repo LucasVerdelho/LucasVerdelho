@@ -152,7 +152,10 @@ My background in Computer Science and my experience with a wide range of technol
 
 | Class | Project Name                                      | Project Description                    |
 |-------|---------------------------------------------------|----------------------------------------|
-| RAS   | [Simple Webpage](https://github.com/lucasverdelho/ras_micro) | Simple Webpage using Express.js  |
+| RAS - 1  | [Simple Webpage Diagrams](https://github.com/lucasverdelho/projeto_ras) | Requirements and Diagrams for a Simple Webpage |
+| RAS - 2  | [Simple Webpage](https://github.com/lucasverdelho/ras_micro) | Simple Webpage using Express.js  |
 | ESR   | [MulticastPython](https://github.com/lucasverdelho/multicastpy) | Multicast In Python  |
 | EC    | [Cryptography](https://github.com/lucasverdelho/EC) | Cryptography Assignments  |
-
+| ASCN | [Notes](https://github.com/lucasverdelho/resumos_ascn) | Class Notes |
+| DAA | [Notes](https://github.com/lucasverdelho/resumos_daa) | Class Notes |
+| ESR | [Notes](https://github.com/lucasverdelho/resumos_redes) | Class Notes |
