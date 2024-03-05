@@ -22,11 +22,6 @@ I also enrolled in the Cryptography and Information Security field in order to b
 
 My background in Computer Science and my experience with a wide range of technologies and fields, as well as my passion for learning and my strong work ethic, make me a versatile and adaptable developer, capable of working on a wide range of projects and technologies, and always looking to expand my knowledge and to improve my skills.
 
-## 📚 Education
-
-- **Bachelor's in Computer Science** from the University of Minho
-- **Master's in Computer Science** from the University of Minho
-
 ## 📈 WIP Projects
 | Project          | Description |
 |------------------|-------------|
