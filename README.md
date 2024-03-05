@@ -1,60 +1,33 @@
-# 👨‍💻 About Me
+# About Me 
 
 ## 🚀 Professional Summary
-Highly motivated and skilled programmer with expertise in C, C++, Python, and R. Focusing in concurrent programming and data science, passionate about smart code improvement.
+I have a Bachelor's in Computer Science and I'm currently doing my Master's in Computer Science at the University of Minho, specializing on the field of Computer Graphics, Image Processing and Computer Vision, alongside Cryptography and Information Security, looking to expand my knowledge on a wide range of subjects, aspiring to become a developer with a strong background in good programming practices and a strong understanding of the underlying concepts of the technologies I use.
 
 ## 💻 Technical Expertise
-- **Languages:** C, C++, Python, R
-- **Concurrent Programming:** Libraries and techniques
-- **Data Science:** Statistics, Python, Power BI
+My primary tech stack revolves around C, C++ and Python. I use C and C++ for low level programming and performance critical applications, while I use Python for Data Analysis and Machine Learning. I also have experience with Rust, Haskell and Java, and I'm always looking to expand my knowledge on new languages and technologies.
+<!-- 
 
+## 🎵 Music and Audio Production
+I'm also a musician and a music producer, and I'm currently learning about Digital Signal Processing and the development of Audio Plugins, as well as the development of Digital Audio Workstations and the development of Audio Effects and Synthesizers. I'm also learning about the development of VST3 plugins using the JUCE framework, and so far I have developed simple versions of a Multiband Compressor and a 3 Band EQ.
 
-## 📊 Data Analysis and Collaboration
-Expert in data analysis using Python, R, and other tools. Excellent communicator, fostering collaboration with researchers.
+## 📸 Photography and Graphic Design
 
-## 📚 Continuous Learning
-Master's in Computer Science with a focus on Cybersecurity and Computer Graphics. Committed to staying updated on emerging technologies.
+I'm also a photographer and a graphic designer, and I'm currently learning about 3D Modelling and Animation, as well as the development of Video Games and Virtual Reality applications. I'm also learning about the development of 3D applications using OpenGL, and so far I have developed a simple Solar System simulation using OpenGL. -->
 
-## 🤝 Team Player
-Thrives in collaborative environments, contributing positively to team dynamics.
+## 🔒 Cryptography and Information Security
 
-## 🌟 Eager to Contribute
-Enthusiastic about leveraging technical expertise for continuous improvement in high-performance computing.
+I also enrolled in the Cryptography and Information Security field in order to become a more complete developer, aspiring to create secure and reliable applications as well as to understand the wider implications of the technologies I use, not only as a developer, but also as a user.
 
+## 🌐 Background and Experience
 
+My background in Computer Science and my experience with a wide range of technologies and fields, as well as my passion for learning and my strong work ethic, make me a versatile and adaptable developer, capable of working on a wide range of projects and technologies, and always looking to expand my knowledge and to improve my skills.
 
+## 📚 Education
 
+- **Bachelor's in Computer Science** from the University of Minho
+- **Master's in Computer Science** from the University of Minho
 
-
-<!---
-
-# About Me
-- I have a Bachelor's in Computer Science and I'm currently doing my Master's in Computer Science at the University of Minho, specializing on the field of Computer Graphics, Image Processing and Computer Vision, alongside Cryptography and Information Security, looking to expand my knowledge on a wide range of subjects, aspiring to become a developer with a strong background in good programming practices and a strong understanding of the underlying concepts of the technologies I use.
-- My primary tech stack revolves around C, C++ and Python. I use C and C++ for low level programming and performance critical applications, while I use Python for Data Analysis and Machine Learning. I also have experience with Rust, Haskell and Java, and I'm always looking to expand my knowledge on new languages and technologies.
-- I'm also a musician and a music producer, and I'm currently learning about Digital Signal Processing and the development of Audio Plugins, as well as the development of Digital Audio Workstations and the development of Audio Effects and Synthesizers. I'm also learning about the development of VST3 plugins using the JUCE framework, and so far I have developed simple versions of a Multiband Compressor and a 3 Band EQ.
-- I'm also a photographer and a graphic designer, and I'm currently learning about 3D Modelling and Animation, as well as the development of Video Games and Virtual Reality applications. I'm also learning about the development of 3D applications using OpenGL, and so far I have developed a simple Solar System simulation using OpenGL.
-- I also enrolled in the Cryptography and Information Security field in order to become a more complete developer, aspiring to create secure and reliable applications as well as to understand the wider implications of the technologies I use, not only as a developer, but also as a user and a citizen.
-- My background in Computer Science and my experience with a wide range of technologies and fields, as well as my passion for learning and my strong work ethic, make me a versatile and adaptable developer, capable of working on a wide range of projects and technologies, and always looking to expand my knowledge and to improve my skills.
-
-More Professional
-# About Me 
-- I hold a Bachelor's degree in Computer Science and am presently pursuing a Master's degree in Computer Science at the University of Minho, specializing in the fields of Computer Graphics, Image Processing, Computer Vision, Cryptography, and Information Security. My academic focus aims to broaden my expertise across a diverse array of subjects, with the ultimate goal of establishing myself as a developer endowed with a robust foundation in sound programming practices and a comprehensive comprehension of the underlying principles governing the technologies I engage with.
-- My primary technological proficiency is centered around C, C++, and Python. I employ C and C++ for low-level programming and performance-critical applications, while Python serves as my tool of choice for Data Analysis and Machine Learning. My repertoire also includes experience with Rust, Haskell, and Java, and I remain committed to expanding my proficiency in emerging languages and technologies.
-- Beyond the realm of computer science, I am an avid musician and music producer. Currently, I am delving into the realms of Digital Signal Processing, the development of Audio Plugins, along with the exploration of Audio Effects and Synthesizers. My ongoing endeavors involve learning the intricacies of VST3 plugin development using the JUCE framework, with completed projects including rudimentary versions of a Multiband Compressor and a 3 Band EQ.
-- In addition to my musical pursuits, I am actively engaged in learning 3D Modelling and Animation. My interest extends to the development of Video Games and Virtual Reality applications, with a particular focus on the utilization of OpenGL for the creation of 3D applications. 
-- Furthermore, my enrollment in the field of Cryptography and Information Security underscores my commitment to becoming a comprehensive developer. I aspire to create secure and reliable applications while comprehending the broader implications of the technologies I employ, not only in my capacity as a developer but also as a user and a responsible citizen.
-- My extensive background in Computer Science, coupled with diverse experiences across various technologies and fields, reflects my versatility and adaptability as a developer. My unwavering passion for learning, coupled with a strong work ethic, positions me as a dynamic professional capable of undertaking a wide spectrum of projects and technologies, perpetually seeking to augment my knowledge and enhance my skill set.
-
- ABSTRTACT	
-This professional narrative outlines my academic journey from a Bachelor's in Computer Science to the ongoing pursuit of a Master's degree, specializing in Computer Graphics, Image Processing, Computer Vision, Cryptography, and Information Security. Proficient in C, C++, and Python, I navigate low-level programming, performance-critical applications, and Data Analysis/Machine Learning. My versatile skill set extends to Rust, Haskell, Java, and a continual commitment to mastering emerging languages and technologies.
-
-Beyond academia, I am an accomplished musician and music producer, exploring Digital Signal Processing, Audio Plugin development, and Digital Audio Workstations. Proficient in VST3 plugin development with the JUCE framework, I've implemented a Multiband Compressor and a 3 Band EQ. In the visual realm, my expertise spans photography, graphic design, and 3D Modelling/Animation. I've ventured into Video Game and Virtual Reality development using OpenGL, showcasing a Solar System simulation.
-
-Enrolled in Cryptography and Information Security, my goal is to enhance my role as a developer by creating secure and reliable applications. This comprehensive background reflects adaptability, versatility, and a commitment to continuous learning, making me an ideal candidate for diverse projects and technologies.
---->
-
-
-# Current Projects
+## 📈 WIP Projects
 | Project          | Description |
 |------------------|-------------|
 | [VCPI](https://github.com/lucasverdelho/VCPI)   | Image Processing and Computer Vision |
