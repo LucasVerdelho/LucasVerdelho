@@ -1,18 +1,18 @@
 # About Me 
-
+<!-- 
 ## 🚀 Professional Summary
 I have a Bachelor's in Computer Science and I'm currently doing my Master's in Computer Science at the University of Minho, specializing on the field of Computer Graphics, Image Processing and Computer Vision, alongside Cryptography and Information Security, looking to expand my knowledge on a wide range of subjects, aspiring to become a developer with a strong background in good programming practices and a strong understanding of the underlying concepts of the technologies I use.
 
 ## 💻 Technical Expertise
 My primary tech stack revolves around C, C++ and Python. I use C and C++ for low level programming and performance critical applications, while I use Python for Data Analysis and Machine Learning. I also have experience with Rust, Haskell and Java, and I'm always looking to expand my knowledge on new languages and technologies.
-<!-- 
+
 
 ## 🎵 Music and Audio Production
 I'm also a musician and a music producer, and I'm currently learning about Digital Signal Processing and the development of Audio Plugins, as well as the development of Digital Audio Workstations and the development of Audio Effects and Synthesizers. I'm also learning about the development of VST3 plugins using the JUCE framework, and so far I have developed simple versions of a Multiband Compressor and a 3 Band EQ.
 
 ## 📸 Photography and Graphic Design
 
-I'm also a photographer and a graphic designer, and I'm currently learning about 3D Modelling and Animation, as well as the development of Video Games and Virtual Reality applications. I'm also learning about the development of 3D applications using OpenGL, and so far I have developed a simple Solar System simulation using OpenGL. -->
+I'm also a photographer and a graphic designer, and I'm currently learning about 3D Modelling and Animation, as well as the development of Video Games and Virtual Reality applications. I'm also learning about the development of 3D applications using OpenGL, and so far I have developed a simple Solar System simulation using OpenGL. 
 
 ## 🔒 Cryptography and Information Security
 
@@ -21,7 +21,7 @@ I also enrolled in the Cryptography and Information Security field in order to b
 ## 🌐 Background and Experience
 
 My background in Computer Science and my experience with a wide range of technologies and fields, as well as my passion for learning and my strong work ethic, make me a versatile and adaptable developer, capable of working on a wide range of projects and technologies, and always looking to expand my knowledge and to improve my skills.
-
+-->
 ## 📈 WIP Projects
 | Project          | Description |
 |------------------|-------------|
