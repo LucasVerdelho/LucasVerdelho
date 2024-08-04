@@ -113,16 +113,10 @@
 
 ### Tools
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Wolfram Mathematica](https://img.shields.io/badge/Wolfram%20Mathematica-DD1100?style=for-the-badge&logo=Wolfram%20Mathematica&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![VisualStudio 2019](https://img.shields.io/badge/VisualStudio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white)
-
-### Creative Tools
 ![Ableton Live](https://img.shields.io/badge/Ableton%20Live-000000?style=for-the-badge&logo=Ableton%20Live&logoColor=white)
 ![ProTools](https://img.shields.io/badge/ProTools-7B7B7B?style=for-the-badge&logo=ProTools&logoColor=white)
 ![FL Studio](https://img.shields.io/badge/FL%20Studio-FF2D20?style=for-the-badge&logo=FL%20Studio&logoColor=white)
@@ -130,8 +124,6 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=Audacity&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-FF314D?style=for-the-badge&logo=DaVinci%20Resolve&logoColor=white)
 
