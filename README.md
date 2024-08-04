@@ -38,9 +38,10 @@
 |-------|---------------------------------------------------|----------------------------------------|
 | IA    | [Package Route Calculator](https://github.com/LucasVerdelho/IA-Project) | Optimizing Delivery Paths |
 | DAA-1 | [Worksheets](https://github.com/lucasverdelho/DAA_Worksheets) | Class Worksheets Resolutions          |
-| DAA-2 | [Practical Assignment](https://github.com/lucasverdelho/trabalho_daa) | Machine Learning Introduction         |
+| DAA-2 | [Practical Assignment](https://github.com/lucasverdelho/trabalho_daa) | Machine Learning Introduction     |
+| VCPI-2 | [Computer Vision](https://github.com/lucasverdelho/VCPI-TP2) | German Traffic Sign Recognition Benchmark |
 
-### Computer Networks and Systems
+ ### Computer Networks and Systems
 
 | Class | Project Name                                      | Project Description                    |
 |-------|---------------------------------------------------|----------------------------------------|
@@ -55,7 +56,7 @@
 |-------|---------------------------------------------------|----------------------------------------|
 | CG    | [Solar System in OpenGL](https://github.com/lucasverdelho/ProjetoCG-FINAL) | Introduction to OpenGL and Computer Graphics Processing pipeline  |
 | VI    | [Scene Renderer](https://github.com/lucasverdelho/VI-Renderer) | Rendering Full Scenes with Ray Tracing |
-| VCPI  | [Computer Image Processing](https://github.com/lucasverdelho/VCPI) | Processing Images with Python |
+| VCPI-1 | [Computer Image Processing](https://github.com/lucasverdelho/VCPI) | Processing Images with Python |
 
 ### Others
 
