@@ -21,7 +21,7 @@
 |-------|---------------------------------------------------|----------------------------------------|
 | SO    | [Multiprocessing in C](https://github.com/LucasVerdelho/SO-Project) | Introduction to Multiprocess and Pipes in C      |
 | CP    | [Molecular Dynamics](https://github.com/lucasverdelho/molecular_dynamics) | Optimizing scientific Molecular Dynamics simulations whilst maitaining scientific rigour and accuracy |
-| [Path Tracer Renderer](https://github.com/lucasverdelho/Path-Tracer-Renderer)  | Scene Renderer in C++ with emphasis on multi-threaded performance |
+| VI/Personal | [Path Tracer Renderer](https://github.com/lucasverdelho/Path-Tracer-Renderer)  | Scene Renderer in C++ with emphasis on multi-threaded performance |
 
 ### Programming Languages and Paradigms
 
